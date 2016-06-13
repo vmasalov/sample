@@ -1,0 +1,25 @@
+{
+  "TITLE": "Example",
+  "NAV_COUNTRY": "Страна",
+  "NAV_COUNTRIES": [
+    "Беларусь",
+    "Россия",
+    "Украина"
+  ],
+  "NAV_LANGUAGES": [
+    {
+      "value": "ru",
+      "label": "РУС"
+    },
+    {
+      "value": "en",
+      "label": "АНГ"
+    }
+  ],
+  "LOCATION_SEARCH": "Поиск",
+  "HEADER_SIGN_IN": "Вход",
+  "HEADER_SIGN_UP": "Регистрация",
+
+  "FOOTER_COPYRIGHT": "2016 © Все права соблюдены.",
+  "FOOTER_FEEDBACK": "Обратная связь"
+}

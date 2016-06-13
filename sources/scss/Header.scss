@@ -1,0 +1,20 @@
+header {
+  height: 40px;
+  background: #2B2922;
+  display: inline-flex;
+  flex: 1 100%;
+
+  > * {
+    display: inline-flex;
+    align-self: center;
+  }
+
+  .logo {
+    margin: 0 2px 0 0;
+  }
+
+  .button {
+    margin: 0 0 0 2px;
+    display: none;
+  }
+}

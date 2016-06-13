@@ -1,0 +1,42 @@
+footer {
+  height: 40px;
+  line-height: 1;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding: 0 5px;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: nowrap;
+  color: #999;
+  background: #343436;
+  border-top: 1px solid #3E3E3F;
+  z-index: 10;
+
+  > span {
+    align-self: center;
+    margin-left: 10px;
+    color: white;
+    flex: 1 100%;
+  }
+
+  .button {
+    padding: 6px;
+    background-color: red;
+    margin-right: 10px;
+    color: white;
+    align-items: flex-end;
+  }
+
+  .button:hover {
+    background-color: darkred;
+  }
+}

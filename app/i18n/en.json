@@ -1,0 +1,25 @@
+{
+  "TITLE": "Example",
+  "NAV_COUNTRY": "Country",
+  "NAV_COUNTRIES": [
+    "Belarus",
+    "Russia",
+    "Ukraine"
+  ],
+  "NAV_LANGUAGES": [
+    {
+      "value": "en",
+      "label": "ENG"
+    },
+    {
+      "value": "ru",
+      "label": "RUS"
+    }
+  ],
+  "LOCATION_SEARCH": "Search",
+  "HEADER_SIGN_IN": "Sign In",
+  "HEADER_SIGN_UP": "Sign Up",
+
+  "FOOTER_COPYRIGHT": "2016 © All rights reserved.",
+  "FOOTER_FEEDBACK": "Feedback"
+}
