@@ -15,3 +15,5 @@ Based on nodejs + express4 + react.js. Mocha + istanbul for test coverage.
 `/sources/images` - images of the highest possible resolution.
 
 `/sources/scss` - SCSS scripts. Has to stick with SCSS as font generator requires that format and doesn't understand LESS or SASS
+
+`/app/certs` - temporary certificates that doomed to be replaced in production
